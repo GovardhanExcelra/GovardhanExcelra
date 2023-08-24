@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GovardhanExcelra
 - 👀 I’m interested in Bioinformatics Omics data analysis
 - 🌱 I’m currently learning Python Advanced Courses
-- 💞️ I’m looking to collaborate on fellow team mates
+- 💞️ I’m looking to collaborate with fellow team mates
 - 📫 How to reach me (Not for now)
 
 <!---
